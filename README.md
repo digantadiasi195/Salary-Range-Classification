@@ -48,6 +48,14 @@ To achieve these objectives, the project will involve the following steps:
 
    The goal is to determine the most suitable model for accurately classifying salary ranges.
 
+### Model Performance Visualizations
+
+![Model Performance](Comparison.png)
+*Figure 1: Model Performance Comparison*
+
+![Confusion Matrix](Performence_Matrix.png)
+*Figure 2: Confusion Matrix for Random Forest Model*
+
 4. **Evaluation:** Assess the model's performance using metrics like accuracy, precision, recall, and F1-score to ensure the model's effectiveness in predicting salary ranges.
 
 5. **Insights and Applications:** Utilize the insights gained from the model to support decision-making processes and develop targeted initiatives for social impact.
@@ -65,19 +73,6 @@ Here is a summary of the performance of different models:
 
 Among these models, the Random Forest model demonstrated the highest accuracy at 85.28%, outperforming the others. Despite its complexity, it exhibited superior precision (0.74) and recall (0.64), resulting in an F1-score of 0.69. While SVM showed competitive performance with an accuracy of 78.19%, the Random Forest model emerged as the most effective for salary classification, showcasing its predictive power and suitability for deployment.
 
-### Model Performance Visualizations
-
-![Model Performance](path/to/your/image1.png)
-*Figure 1: Model Performance Comparison*
-
-![Confusion Matrix](path/to/your/image2.png)
-*Figure 2: Confusion Matrix for Random Forest Model*
-
-## Next Steps
-- **Data Analysis:** Perform EDA and identify key features.
-- **Model Development:** Build and train the predictive model.
-- **Evaluation and Tuning:** Fine-tune the model and evaluate its performance.
-- **Documentation:** Compile findings and insights to aid stakeholders in decision-making.
 
 ## Conclusion
 
